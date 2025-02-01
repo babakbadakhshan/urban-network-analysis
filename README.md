@@ -1,3 +1,3 @@
 # urban-network-analysis
 
-script for urban street network analysis using open source OSM geographic database 
+Repository for G-15 project. For the final version please refer to "final"
