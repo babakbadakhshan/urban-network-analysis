@@ -10,10 +10,10 @@ This repository contains the source code for the research article [The 15-minute
 If this work was useful, please make sure to cite it as follows:
 
 
-### APA:
+#### APA:
 
 
-### BibTeX:
+#### BibTeX:
 
 
 
