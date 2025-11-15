@@ -10,10 +10,10 @@ This repository contains the source code for the research article [The 15-minute
 If this work was useful, please make sure to cite it as follows:
 
 
-##APA:
+## APA:
 
 
-##BibTeX:
+## BibTeX:
 
 
 
@@ -34,13 +34,13 @@ abstract = "Parks and other green spaces are an important part of sustainable, h
 ```
 
 
-##Maintainers
+## Maintainers
 
 
 Babak Badakhshan, MSc
 
 
-##License
+## License
 
 
 This project is licensed under the terms of [the MIT license](https://opensource.org/license/mit).
