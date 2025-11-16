@@ -34,7 +34,7 @@ abstract = "Parks and other green spaces are an important part of sustainable, h
 ```
 
 
-## Maintainers
+## Maintainer(s)
 
 
 Babak Badakhshan, MSc
